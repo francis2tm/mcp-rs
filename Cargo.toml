@@ -2,5 +2,11 @@
 name = "mcp-rs"
 version = "0.1.0"
 edition = "2024"
+description = "A rust implementation of the model context protocol (MCP) sdk"
+license = "Apache-2.0"
+repository = "https://github.com/francis2tm/mcp-rs"
+keywords = ["mcp", "model context protocol", "ai", "llm"]
+categories = ["ai"]
+readme = "README.md"
 
 [dependencies]
